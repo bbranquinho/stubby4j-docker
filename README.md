@@ -2,6 +2,10 @@
 
 Inspired by https://hub.docker.com/r/sandokandias/stubby4j-docker
 
+Stubby4j version: 6.0.2
+
+Stubby4j manual: https://github.com/azagniotov/stubby4j
+
 docker-compose sample:
 
 ```yml
